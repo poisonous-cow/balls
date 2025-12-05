@@ -1,5 +1,5 @@
 # Balls in Raylib
 
-click on the `main` workspace. 
+double click on the `main` workspace in the project directory. 
 
 fun stuff
